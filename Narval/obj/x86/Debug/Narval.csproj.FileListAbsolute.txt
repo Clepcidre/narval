@@ -1,0 +1,10 @@
+c:\users\forma1105\documents\visual studio 2010\Projects\Narval\Narval\bin\Debug\Narval.exe
+c:\users\forma1105\documents\visual studio 2010\Projects\Narval\Narval\bin\Debug\Narval.pdb
+c:\users\forma1105\documents\visual studio 2010\Projects\Narval\Narval\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\forma1105\documents\visual studio 2010\Projects\Narval\Narval\obj\x86\Debug\Narval.exe
+c:\users\forma1105\documents\visual studio 2010\Projects\Narval\Narval\obj\x86\Debug\Narval.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\Narval\Narval\obj\x86\Debug\Narval.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\Narval\Narval\obj\x86\Debug\Narval.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\Narval\Narval\bin\Debug\Narval.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\Narval\Narval\bin\Debug\Narval.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\Narval\Narval\obj\x86\Debug\ResolveAssemblyReference.cache
